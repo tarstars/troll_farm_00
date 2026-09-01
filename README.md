@@ -17,7 +17,7 @@ The two files are the same Rust program; the readable file is the result of runn
 
 ## Project history
 
-- [Hypotheses tried, in chronological order (PDF)](docs/hypotheses-tried.pdf) - a jargon-free introduction to the experiments through V418.
+- [Hypotheses tried, in chronological order (PDF)](docs/hypotheses-tried.pdf) - a jargon-free introduction to the experiments through V437.
 - [Readable Markdown source](docs/hypotheses-tried.md)
 
 Exact compact artifact:

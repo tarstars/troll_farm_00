@@ -241,6 +241,16 @@ The target for this cycle is a mature platform score of at least 25 and a rank b
 
 **Lesson.** Waiting for repeated evidence is important. The 32-repeat guard looks conservative, but the 16-repeat experiment proved that acting sooner can interrupt a loop that would have resolved safely.
 
+## V419-V438: repair two-troll traffic jams without disturbing normal work
+
+**Belief.** Some losses were not strategy failures. Two trolls were simply trying to use the same tent entrance on alternating turns, or a troll with one wood was walking back and forth while the entrance troll kept chopping. Moving the entrance troll aside could recover the lost work if the jam was clear and there was enough time left.
+
+**What changed.** V419 recognized one exact two-troll traffic pattern after 32 repeats. V420 acted after 16 repeats and became platform V421. V422-V423 tested an extra shared chop and an orchard veto; both were rejected immediately when replay tests lost established results. V424 re-ran the earlier V368 bot to check whether its 25.21 score was repeatable. V433-V436 then narrowed the one-wood doorway repair by time and score. An older game showed that acting on turn 277 could turn wins into a draw or loss. V437 therefore allows the worker exchange only on turns 270-275, while no more than 40 points behind.
+
+**What happened.** V421 matured at 23.54/rank 27. The exact V368 repeat matured at 21.06/rank 37, showing that one unusually good platform score was not a reliable estimate. V437 changes only one selected loss across 640 recorded games. Replaying that position against 12 opponents gained 21 total margin, changed one loss into a draw, and made no result worse. It was inactive in 576 fresh games and its readable and compact builds made identical decisions. Platform V438 matured at 22.07/rank 35, and the new repair did not fire in its first 82 recorded games.
+
+**Lesson.** A movement repair needs both proof of a real jam and enough remaining turns to repay the cost of rearranging workers. Platform score is noisy, so an old lucky result must be repeated before it is treated as the bot's true level.
+
 ## Platform result snapshot
 
 These are selected mature runs, not every local experiment:
@@ -258,7 +268,10 @@ These are selected mature runs, not every local experiment:
 - V381: 24.73, rank 22
 - V392: 21.15, rank 38
 - V414: 22.66, rank 32
-- V417: still stabilizing when this document was written; early rank is not a mature result
+- V417: 24.95, rank 20
+- V421: 23.54, rank 27
+- V424: 21.06, rank 37
+- V438: 22.07, rank 35
 
 ## What the project now believes
 
