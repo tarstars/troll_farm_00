@@ -1,0 +1,531 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 9 /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 5764 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 24.00 Tf 0.08 0.25 0.42 rg 1 0 0 1 54.00 783.89 Tm (Troll Farm: hypotheses tried, in) Tj ET
+BT /F2 24.00 Tf 0.08 0.25 0.42 rg 1 0 0 1 54.00 754.89 Tm (chronological order) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 709.89 Tm (Status: 1 September 2026, through V418) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 691.79 Tm (This is a plain-language history for somebody new to the project. It records the ideas we tested, why) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 677.69 Tm (we tested them, what happened, and what we learned.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 648.59 Tm (How to read this document) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 633.59 m 541.28 633.59 l S
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 621.59 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 621.59 Tm (A hypothesis is simply an idea that might make the bot win more often.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 603.49 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 603.49 Tm (A name such as V10 is an experiment label. It is not a game rule or a release promised to) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 589.39 Tm (users.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 571.29 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 571.29 Tm (Many consecutive labels test tiny variations of the same idea. They are grouped together here so) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 557.19 Tm (the main story remains visible.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 539.09 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 539.09 Tm (Some labels are skipped because they were packaging checks, exact copies, or experiments stopped) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 524.99 Tm (before they became a distinct idea.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 506.89 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 506.89 Tm (Candidate and platform numbers can differ. For example, candidate V416 was the code submitted as) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 492.79 Tm (platform V417.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 474.69 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 474.69 Tm (A local test is a repeatable set of simulated games. A platform result is the real) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 460.59 Tm (CodinGame ladder result.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 442.49 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 442.49 Tm (A local score margin tells us how many more game points the bot earned. The platform rank depends) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 428.39 Tm (mainly on wins, draws, and losses, so later tests count outcomes first.) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 410.29 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 410.29 Tm (A platform result is called mature only after all games and the platform's rank-stabilization) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 396.19 Tm (process are finished.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 367.09 Tm (Starting point: the bot before these experiments) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 352.09 m 541.28 352.09 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 340.09 Tm (The base bot usually plays with two trolls. It cuts trees, banks wood, sometimes runs a small apple) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 325.99 Tm (orchard, and applies limited pressure to trees that the opponent planted. It already contains several) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 311.89 Tm (old farming ideas. New work therefore has to improve it without breaking its useful opening or sending) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 297.79 Tm (trolls away from normal chores.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 279.69 Tm (The target for this cycle is a mature platform score of at least 25 and a rank below 10.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 250.59 Tm (V1-V2: a large renewable banana farm) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 235.59 m 541.28 235.59 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 223.59 Tm (Belief. A renewable banana plantation would create enough fruit and wood to overpower the simpler) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 209.49 Tm (resident bot.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 191.39 Tm (What changed. V1 added a substantial banana-farm plan. In local games it looked spectacular: it) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 177.29 Tm (improved all 72 sampled maps and beat the resident bot in most direct games. V2 removed that farm and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 163.19 Tm (kept smaller, older improvements to tree pressure and late banking.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 145.09 Tm (What happened. V1 collapsed on the real platform and was replaced early at score 13.20. V2) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 130.99 Tm (matured at score 23.03, rank 32.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 112.89 Tm (Lesson. The local simulator greatly overvalued the exposed plantation. A large farm can give the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 98.79 Tm (opponent fruit and time as well as helping us. From this point onward, real replays and fixed-map) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 84.69 Tm (comparisons became essential.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 1 of 9) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5862 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 772.89 Tm (V3-V4: copy decisions from strong players) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 757.89 m 541.28 757.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 745.89 Tm (Belief. Strong players had already discovered better worker builds and tree choices, so copying) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 731.79 Tm (visible choices from their replays should improve our bot.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 713.69 Tm (What changed. V3 copied learned tree decisions. V4 changed which second troll to train, following) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 699.59 Tm (examples from a strong player.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 681.49 Tm (What happened. V3 scored only 17.28 online. V4 was inconsistent and worse overall.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 663.39 Tm (Lesson. A worker build or tree choice only makes sense together with the strategy around it.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 649.29 Tm (Copying one visible decision without the rest of the plan does not copy the strength of the original) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 635.19 Tm (bot.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 606.09 Tm (V5-V9: make a three-troll fruit factory work) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 591.09 m 541.28 591.09 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 579.09 Tm (Belief. A fruit factory could pay for a third troll, and the extra troll would provide the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 564.99 Tm (production missing from the two-troll bot.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 546.89 Tm (What changed. These versions tried several crop lifecycles, crop ownership rules, fruit reserves,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 532.79 Tm (harvesting delays, banking rules, and protection of original trees.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 514.69 Tm (What happened. Some versions created much more material for us, but they also reduced pressure) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 500.59 Tm (on the opponent. The opponent often gained even more. None was safe enough for the ladder.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 482.49 Tm (Lesson. Production and interference with the opponent cannot be separated. A farm that) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 468.39 Tm (occupies the first two trolls may fund a third troll and still lose the game before that investment pays) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 454.29 Tm (back.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 425.19 Tm (V10-V12: repair the factory lifecycle) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 410.19 m 541.28 410.19 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 398.19 Tm (Belief. The factory idea was sound, but its workers were harvesting, banking, or choosing planting) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 384.09 Tm (cells incorrectly.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 365.99 Tm (What changed. V10 copied the observed farming rhythm more closely. V11 removed V10's mistake of) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 351.89 Tm (always cutting our own crop first. V12 changed how planting locations were chosen, preferring total) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 337.79 Tm (travel cost rather than one part of the trip.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 319.69 Tm (What happened. V10 lost badly in fixed-map platform tests. V11 looked better in the simulator) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 305.59 Tm (after freeing the trapped worker, but still lost badly in real fixed-map tests. V12 was clearly worse) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 291.49 Tm (even locally.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 273.39 Tm (Lesson. V10's problem was not a single broken detail. V11 repaired a real worker-control error,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 259.29 Tm (but the overall factory still gave up too much map pressure. V12 confirmed that a small placement rule) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 245.19 Tm (could not rescue the architecture.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 216.09 Tm (V13-V31: balanced factories, lean farms, and a dedicated worker) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 201.09 m 541.28 201.09 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 189.09 Tm (Belief. The factory might work if the third troll were balanced, or if the farm were much smaller) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 174.99 Tm (and used a dedicated nearby worker.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 156.89 Tm (What changed. V13-V23 tried balanced three-worker factories. V24-V29 reduced the farm and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 142.79 Tm (changed when it began. V30-V31 tried to buy a worker specifically for the small farm, then made that) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 128.69 Tm (worker cheaper by reducing movement skill.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 110.59 Tm (What happened. The exposed crops remained profitable for strong opponents. The dedicated) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 96.49 Tm (worker never trained in 384 games because its bill was still too expensive for the supplies available) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 82.39 Tm (without a harmful detour.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 2 of 9) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 6162 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 783.89 Tm (Lesson. The missing third troll is not free spare capacity. Paying for it changes the whole) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 769.79 Tm (opening. A worker designed only for the home area can still be unaffordable if the first two trolls must) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 755.69 Tm (stop useful work to fund it.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 726.59 Tm (V32-V47: harvest more and finish opponent crops) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 711.59 m 541.28 711.59 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 699.59 Tm (Belief. Losses showed missing fruit and opponents with productive crops. More harvesting,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 685.49 Tm (stronger crop cutting, or finishing a nearly cut tree might close the gap.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 667.39 Tm (What changed. These versions tried a harvesting second troll, harvesting without the apple) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 653.29 Tm (orchard, stronger pressure on opponent crops, early nursery attacks, limited pressure windows, and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 639.19 Tm (special rules for the last cut on apple, lemon, or focused trees.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 621.09 Tm (What happened. Broad pressure often helped the opponent by finishing a tree and releasing wood) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 606.99 Tm (at the wrong time. Broad harvesting sent trolls on detours. Narrow rules were safer but too rare.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 588.89 Tm (Lesson. A replay symptom is not automatically a useful action. Opponent crops are common in) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 574.79 Tm (losses partly because strong opponents grow them well. Chasing the symptom can make our own schedule) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 560.69 Tm (worse.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 531.59 Tm (V48-V66: smaller local farms and contested-tree rules) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 516.59 m 541.28 516.59 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 504.59 Tm (Belief. A farmer close to home, plus very focused tree contests, could add production without the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 490.49 Tm (cost of the large factory.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 472.39 Tm (What changed. V48-V53 tried local farmers and last-cut rules for opponent bananas. V54-V66) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 458.29 Tm (tested persistent focus only while already on a tree, softer versions of that focus, apple contests,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 444.19 Tm (distance limits, ripeness checks, and combinations with the older reliable tree preference.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 426.09 Tm (What happened. The safest result became V54: a small, guarded preference rather than a broad) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 411.99 Tm (route change. Both removing that preference and increasing it later proved worse.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 393.89 Tm (Lesson. The useful middle ground is small. Staying on a tree can be good when the troll is already) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 379.79 Tm (there, but turning it into a general destination changes too many later actions.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 350.69 Tm (V67-V107: the long search for a truly lean banana farm) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 335.69 m 541.28 335.69 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 323.69 Tm (Belief. The original farm was too large and clumsy. A lean version should use one or two mother) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 309.59 Tm (banana trees near home, harvest them repeatedly, plant only nearby chop trees, and preserve a clear) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 295.49 Tm (banking route.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 277.39 Tm (What changed. This family tried safe start checks, observed opponent activity, enemy travel time,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 263.29 Tm (immediate child planting, holding a doorway briefly, waiting for full-grown children, exact banking,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 249.19 Tm (reachable chop plots, earlier starts, apple-orchard combinations, free-worker behavior during growth,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 235.09 Tm (mother-aware routes, different doors, cleanup timing, scarce-map rules, and several ways to provide) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 220.99 Tm (banana seeds.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 202.89 Tm (What happened. Individual replays looked much better, but wider tests repeatedly showed the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 188.79 Tm (same tradeoff: our farm raised our output while giving production-focused opponents even more time) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 174.69 Tm (and value. V100 became the best distinct fallback, but the V108 banana-supply extension matured at) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 160.59 Tm (only 22.90, rank 32.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 142.49 Tm (Lesson. Better farm geometry does not solve bad timing. A small plantation can still be too) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 128.39 Tm (expensive if it replaces tree pressure or starts after the opponent's economy is already growing.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 99.29 Tm (V108-V125: rechecks and replay diagnosis) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 84.29 m 541.28 84.29 l S
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 3 of 9) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 6342 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 783.89 Tm (Belief. Platform noise might be hiding a good older version, and the failed farm starts might have) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 769.79 Tm (one simple cause.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 751.69 Tm (What changed. We reran exact older bots and tested cheaper banana supply, orchard cost) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 737.59 Tm (filters, ownership-only commitments, no-farm variants, first-harvest time limits, keeping the farmer) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 723.49 Tm (beside the mother, and harvesting before emergency cleanup.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 705.39 Tm (What happened. Exact rechecks still varied: V115 scored 23.53/rank 29, V121 22.92/rank 31, and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 691.29 Tm (V125 23.76/rank 26. Disabling the lean farm lost locally, even though its few platform starts were) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 677.19 Tm (losses. Fixed time limits also removed useful starts. Harvesting before emergency cleanup let) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 663.09 Tm (opponents gain more than us.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 644.99 Tm (Lesson. A feature appearing mostly in losses does not prove that the feature caused them. Exact) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 630.89 Tm (A/B tests are needed. Platform scores also move enough that repeating identical code does not) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 616.79 Tm (guarantee the same rank.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 587.69 Tm (V127-V159: replace one job score with explicit priorities) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 572.69 m 541.28 572.69 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 560.69 Tm (Belief. The bot gave every possible job one numeric weight. A high-quality low-priority job might) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 546.59 Tm (therefore beat an urgent job. A priority list could separate urgency from quality.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 528.49 Tm (What changed. V127 and platform V133 compared job pairs by: first job priority, second job) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 514.39 Tm (priority, and only then the old quality score. Later versions made the rule stricter or softer,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 500.29 Tm (extended it to other worker counts, or used it only before turn 200. At the same time, V138-V159) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 486.19 Tm (combined the priority system with compact two-mother, one-mother, sparse-map, orchard-first, and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 472.09 Tm (idle-only banana farms.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 453.99 Tm (What happened. The priority list removed many waits and had a small positive local result, but V133) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 439.89 Tm (matured at 22.30/rank 35. Strict priority separation was too rigid. The best compromise used) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 425.79 Tm (priorities before turn 200 and the old score late, because late trips often could not pay back.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 411.69 Tm (Compact farms could gain locally, but wider tests showed they still displaced useful work. An idle-only) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 397.59 Tm (farm was safe but almost never active.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 379.49 Tm (Lesson. Explicit priorities are clearer and can prevent some interference, but job selection was) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 365.39 Tm (not the main platform weakness. A good priority system cannot make an expensive farm cheap.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 336.29 Tm (V163-V186: one mother tree, normal chores between farm actions) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 321.29 m 541.28 321.29 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 309.29 Tm (Belief. The farm should act only when planting or harvesting is immediately possible. During growth) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 295.19 Tm (and cooldown, the farmer should return to ordinary work.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 277.09 Tm (What changed. We tested banana instead of the apple orchard, a copied hybrid worker, one mother) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 262.99 Tm (with one or two neighboring chop plots, stronger opponent-crop preference, race checks, protected) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 248.89 Tm (seed handling, early-start guards, and windows that brought the farmer back shortly before fruit) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 234.79 Tm (appeared.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 216.69 Tm (What happened. V169 greatly improved the farm's visible lifecycle in a few games, but lost 1,102) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 202.59 Tm (total margin in the wider screen. Guarded versions reduced the damage without removing it. V178 cut) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 188.49 Tm (many idle turns but still lost in the large confirmation. Return-window versions remained too) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 174.39 Tm (disruptive.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 156.29 Tm (Lesson. Avoiding idle time is necessary, but not sufficient. Even a worker doing normal chores) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 142.19 Tm (between farm steps can arrive late to contested trees because the farm changes its location and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 128.09 Tm (inventory.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 98.99 Tm (V187-V211: one banana tree on a tent entrance) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 83.99 m 541.28 83.99 l S
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 4 of 9) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 6581 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 783.89 Tm (Belief. A super-light farm could behave like a small tax on normal traffic. No troll would be) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 769.79 Tm (assigned to it. When a troll naturally stepped onto the selected tent entrance, one farm transition) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 755.69 Tm (would occur: plant, harvest, bank three bananas, chop, bank wood, and return to an empty cell.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 737.59 Tm (What changed. Early versions reserved the cell or reacted merely to standing on it. Later) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 723.49 Tm (versions required a real arrival, return traffic, a third troll, a banana already being carried home, a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 709.39 Tm (repeat visit by the same capable troll, and distance from enemy cutters.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 691.29 Tm (What happened. Reserving or reacting to the cell changed ordinary work and lost thousands of) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 677.19 Tm (points. Triggering only on return traffic preserved the opening but still delayed arrival at contested) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 663.09 Tm (trees. Starting after a third troll was safe but almost never happened. Planting with a banana already) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 648.99 Tm (being carried was the lightest version, but none of these farms completed the full three-banana cycle) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 634.89 Tm (reliably.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 616.79 Tm (Lesson. The finite-state idea is sound, but an action is never truly free: each troll gets only one) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 602.69 Tm (action per turn. The tree often worked as cheap wood or bait, not as a renewable fruit farm.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 573.59 Tm (V212-V230: fund a third troll without breaking the first two) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 558.59 m 541.28 558.59 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 546.59 Tm (Belief. If the first two trolls left the correct fruit in the tent, a third troll could be trained) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 532.49 Tm (without a large dedicated farm.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 514.39 Tm (What changed. We split worker skills, restored the older three-troll factory, added modern) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 500.29 Tm (opponent-tree pressure, tried cheaper third trolls, deadlines, funding cutoffs, and shared) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 486.19 Tm (harvesting. We also rechecked old E7a and other complete production bots. V228-V230 revisited local) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 472.09 Tm (banana harvesting and explicit priorities.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 453.99 Tm (What happened. The best old factory trained a third troll in 61 of 96 games and raised our score) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 439.89 Tm (by 3,456, but opponents gained 5,167. Modern tree pressure recovered much of the loss, not all of it.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 425.79 Tm (Cheaper workers were too weak; deadlines wasted investments already made; shared funding) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 411.69 Tm (interrupted essential pressure. Old E7a's historic 25.26 was not repeatable evidence for the current) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 397.59 Tm (ladder. Full priority lists changed no commands in the observed games.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 379.49 Tm (Lesson. A third troll is valuable only if it arrives early and the first two trolls keep contesting) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 365.39 Tm (the map. Funding, worker design, and opponent pressure form one complete strategy and cannot be) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 351.29 Tm (safely copied one piece at a time.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 322.19 Tm (V231-V247: a strict arrival-only entrance tax) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 307.19 m 541.28 307.19 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 295.19 Tm (Belief. The entrance farm could be made safe if the ordinary planner ran first and the farm never) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 281.09 Tm (routed, reserved, or held a troll.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 262.99 Tm (What changed. V231 wrapped the ordinary bot and acted only after a real arrival at the chosen) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 248.89 Tm (door. V232-V235 tried to protect the tree from ordinary chopping. V236 skipped the tax while behind.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 234.79 Tm (Later versions tried stronger cutters, time-limited protection, and focused collection for a cheap) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 220.69 Tm (third troll.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 202.59 Tm (What happened. V231 had a real local gain and matured at 24.01/rank 25. Replays showed why: our) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 188.49 Tm (bot planted the entrance banana and then usually cut it before harvesting fruit. The gain came from a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 174.39 Tm (cheap disposable tree, not the requested farm cycle. Protecting it lost because immediate wood was) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 160.29 Tm (worth more than rare future fruit. V236 matured at 23.05/rank 29. Focused third-worker collection) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 146.19 Tm (lost heavily.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 128.09 Tm (Lesson. A strict action tax can be safe and useful, but preserving the tree changes ordinary) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 113.99 Tm (work. The simple bot benefits more from quick wood than from waiting for a perfect three-fruit) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 99.89 Tm (lifecycle.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 5 of 9) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 6046 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 772.89 Tm (V248-V258: let the apple orchard start on more maps) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 757.89 m 541.28 757.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 745.89 Tm (Belief. The apple orchard was being blocked by old fixed distance rules even when the actual enemy) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 731.79 Tm (was far enough away.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 713.69 Tm (What changed. These versions removed several orchard vetoes one by one, reduced a fixed) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 699.59 Tm (enemy-door distance, and finally relied on the live enemy travel-time check instead of the old map-only) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 685.49 Tm (limit.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 667.39 Tm (What happened. Local score margins improved greatly, but platform results were mixed: V248) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 653.29 Tm (22.45/rank 32, V251 23.81/rank 27, V256 23.65/rank 28, and V258 24.59/rank 21.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 635.19 Tm (Lesson. The orchard really was more productive, but raw game-point gains did not consistently) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 621.09 Tm (create more wins. This led to a major testing change: choose candidates by wins, draws, and losses) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 606.99 Tm (first; use score margin only as a safety check.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 577.89 Tm (V259-V310: outcome-first, narrow tactical changes) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 562.89 m 541.28 562.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 550.89 Tm (Belief. Small, guarded actions could convert close losses without disturbing established wins.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 532.79 Tm (What changed. This long family tested orchard deadlines, small entrance-tax deficit limits, early) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 518.69 Tm (pressure on an opponent who was saving resources, time windows, tree-reach limits, enemy-first) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 504.59 Tm (penalties, contested harvests, water-side door preferences, worker builds, and many combinations.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 490.49 Tm (V266 reopened the disposable entrance tree only while no more than eight points behind. V273 kept a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 476.39 Tm (useful opponent-pressure signal only during turns 11-32. V274 combined them. V279-V310 mined) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 462.29 Tm (specific replay moments with progressively narrower rules.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 444.19 Tm (What happened. Many changes looked positive in a small screen and then destroyed one) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 430.09 Tm (established win in the larger confirmation. V266 matured at 22.85/rank 30 and V274 at 23.32/rank 28.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 415.99 Tm (The safe endpoints were narrow: do not widen the deficit limit, pressure window, or tree reach without) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 401.89 Tm (new evidence.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 383.79 Tm (Lesson. Protecting existing wins is more important than accumulating raw margin. A candidate with) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 369.69 Tm (five new wins and one lost established win can still be too risky when that loss exposes a broad failure) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 355.59 Tm (mode.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 326.49 Tm (V311-V330: take fruit only when ordinary work would wait) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 311.49 m 541.28 311.49 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 299.49 Tm (Belief. Harvesting could be almost free if a troll was already standing on the tree and the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 285.39 Tm (completed ordinary plan told it to wait.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 267.29 Tm (What changed. V311 took the final fruit from a damaged opponent-planted tree that an enemy was) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 253.19 Tm (already chopping. V313 broadened this to any ripe tree. V314 kept only apples. V315 removed a useless) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 239.09 Tm (last-turn harvest. V316-V326 rechecked protected entrance farms, cash-out timing, and the old) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 224.99 Tm (factory. V327-V330 tested idle help on own or contested trees.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 206.89 Tm (What happened. V311 matured at 24.67/rank 22. Broad harvesting lost an established win;) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 192.79 Tm (apple-only harvesting was locally stronger but matured at 22.72/rank 30 and almost never activated in) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 178.69 Tm (the live mix. Protecting the entrance farm failed again. A broader contested-tree helper changed many) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 164.59 Tm (commands but lost match points.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 146.49 Tm (Lesson. A true final-wait replacement is one of the safest ways to add behavior. Even so, a rare) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 132.39 Tm (safe action may not move the platform rank, and broadening it by fruit type or tree ownership quickly) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 118.29 Tm (stops being free.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 6 of 9) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 6604 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 772.89 Tm (V331-V353: copy a top player's bounded home farm) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 757.89 m 541.28 757.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 745.89 Tm (Belief. A top-eight two-troll bot showed a real continuous local farm: one troll planted and) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 731.79 Tm (harvested near home while a trained cutter made wood. Copying its bounded geometry and worker might) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 717.69 Tm (provide the missing production.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 699.59 Tm (What changed. V331-V341 built and repaired an eight-tree nearby farm. V342-V347 enabled it only) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 685.49 Tm (as a comeback plan. V348-V349 copied the observed 2/2/0/2 cutter. V350 and V353 then restored the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 671.39 Tm (best older small-action bots for clean platform rechecks. V351 directly tested whether priority) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 657.29 Tm (interference caused the scaling losses; V352 tried abandoning a losing orchard.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 639.19 Tm (What happened. The corrected farm increased our raw production but lost matches because it) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 625.09 Tm (replaced cross-map pressure. The comeback guard passed development and failed the large) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 610.99 Tm (confirmation badly. The copied worker was harmful without the source bot's complete opening. V350, an) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 596.89 Tm (exact V311 recheck, matured at 24.79/rank 20; V353 at 23.22/rank 29. The priority change affected no) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 582.79 Tm (relevant games, and abandoning the orchard often produced a wait rather than useful work.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 564.69 Tm (Lesson. A successful worker and farm belong to a full strategy. The current bot's main scaling) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 550.59 Tm (problem is not that its one-number job weights are visibly crossing priorities in those states.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 521.49 Tm (V354-V381: stop trolls from blocking the tent) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 506.49 m 541.28 506.49 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 494.49 Tm (Belief. Some close losses came from a concrete movement failure: a troll carrying wood repeatedly) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 480.39 Tm (backed away from the tent because another troll occupied the needed entrance.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 462.29 Tm (What changed. V354 tried a general doorway swap. V355 allowed it only with exactly two trolls, a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 448.19 Tm (returning wood carrier, and an empty waiting blocker that could safely swap places. Later versions) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 434.09 Tm (added a narrow crop-finishing action for close games, then allowed collection only after the opening.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 415.99 Tm (What happened. The narrow swap repaired the exact replay and was safe locally, but platform V356) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 401.89 Tm (matured at 22.60/rank 30 because the event was rare. V370's close-game crop finish reached) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 387.79 Tm (25.21/rank 17, the first mature run to clear the score half of the target, although that new action) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 373.69 Tm (never actually fired in the live games. V381's opening-safe collection matured at 24.73/rank 22.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 355.59 Tm (Lesson. Concrete replay fixes are safer than broad strategy changes, but a rare fix cannot) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 341.49 Tm (carry the whole rank. It remains worth keeping if it does not damage normal games.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 312.39 Tm (V382-V404: react when the opponent trains more trolls) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 297.39 m 541.28 297.39 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 285.39 Tm (Belief. The clearest remaining loss pattern was opponent scaling: our bot stayed at two trolls) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 271.29 Tm (while strong opponents reached three or four. We might answer with stronger crop pressure or a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 257.19 Tm (conditional production plan.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 239.09 Tm (What changed. We tested wider crop-finishing limits, actions while sharing a tree with an enemy,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 224.99 Tm (funding a cheap third troll after seeing the opponent scale, assigning funding to different workers, a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 210.89 Tm (one-iron bridge, and stronger pressure specifically against dedicated harvesters. V399-V404) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 196.79 Tm (revisited bounded farming only in severe late states.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 178.69 Tm (What happened. Third-worker funding damaged many games. A bridge that looked almost affordable) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 164.59 Tm (still helped the opponent more. General pressure was unsafe; specialist-only pressure passed local) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 150.49 Tm (tests but platform V392 matured at 21.15/rank 38 because it changed only two live games. Conditional) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 136.39 Tm (late farms were either dormant or lost when replayed against independent older archives.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 118.29 Tm (Lesson. Seeing the opponent's third troll does not make our own funding bill cheaper. Rules) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 104.19 Tm (selected from a few current losses must also survive older independent games.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 7 of 9) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 6155 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 772.89 Tm (V405-V409: return to actions that do not reroute trolls) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 757.89 m 541.28 757.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 745.89 Tm (Belief. The safest remaining changes would replace only a wait or an action already happening) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 731.79 Tm (underfoot.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 713.69 Tm (What changed. V405 broadened the final-wait harvest. V406-V408 tried harvesting before a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 699.59 Tm (contested chop, with score and opponent-count guards. V409 tried to save ripe fruit on the passive) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 685.49 Tm (entrance banana immediately before our own chop.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 667.39 Tm (What happened. V405 was safe but never activated. The contested-harvest versions delayed a) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 653.29 Tm (useful chop and lost outcomes in independent continuations. V409 was completely inactive because the) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 639.19 Tm (tree was normally cut before fruit survived to that decision point.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 621.09 Tm (Lesson. A change can be perfectly safe and still useless. Repairing the visible final symptom is too) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 606.99 Tm (late if the cause happened many turns earlier.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 577.89 Tm (V410-V418: escape long doorway loops, but only after proof) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 562.89 m 541.28 562.89 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 550.89 Tm (Belief. A broader version of the proven tent swap could rescue trolls stuck for dozens or) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 536.79 Tm (hundreds of turns, including a doorway troll that was harvesting or depositing and an empty trapped) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 522.69 Tm (chopper.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 504.59 Tm (What changed. V410 allowed a harvesting blocker but never fired because the actions were out of) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 490.49 Tm (phase. V411 included a depositing blocker and rescued the long stall, but firing after one backtrack) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 476.39 Tm (was unsafe. V412 added a 32-repeat wait but accidentally delayed the old proven swap too. V413) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 462.29 Tm (corrected that mistake and became platform V414. V415 required the stuck carrier to hold at least) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 448.19 Tm (two wood. V416 also rescued an empty trapped worker after 32 repeats and became platform V417. V418) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 434.09 Tm (tried triggering after only 16 repeats.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 415.99 Tm (What happened. V414 matured at 22.66/rank 32. The two-wood rule removed small one-wood) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 401.89 Tm (regressions. V416 passed fresh games and exact continuation tests: before maturity, its first three) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 387.79 Tm (live activations added one win and no lost outcome in replay continuations. V418 was rejected because) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 373.69 Tm (the earlier trigger created four worse outcomes in older archives.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 355.59 Tm (Lesson. Waiting for repeated evidence is important. The 32-repeat guard looks conservative, but) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 341.49 Tm (the 16-repeat experiment proved that acting sooner can interrupt a loop that would have resolved) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 327.39 Tm (safely.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 298.29 Tm (Platform result snapshot) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 283.29 m 541.28 283.29 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 271.29 Tm (These are selected mature runs, not every local experiment:) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 253.19 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 253.19 Tm (V2: 23.03, rank 32) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 235.09 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 235.09 Tm (V125: 23.76, rank 26) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 216.99 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 216.99 Tm (V152: 22.72, rank 30) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 198.89 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 198.89 Tm (V231: 24.01, rank 25) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 180.79 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 180.79 Tm (V258: 24.59, rank 21) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 162.69 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 162.69 Tm (V274: 23.32, rank 28) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 144.59 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 144.59 Tm (V311: 24.67, rank 22) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 126.49 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 126.49 Tm (V350: 24.79, rank 20) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 108.39 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 108.39 Tm (V356: 22.60, rank 30) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 90.29 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 90.29 Tm (V370: 25.21, rank 17) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 72.19 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 72.19 Tm (V381: 24.73, rank 22) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 8 of 9) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 3449 >>
+stream
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 54.00 812.89 Tm (Troll Farm hypotheses timeline) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 783.89 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 783.89 Tm (V392: 21.15, rank 38) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 765.79 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 765.79 Tm (V414: 22.66, rank 32) Tj ET
+BT /F2 10.35 Tf 0 0 0 rg 1 0 0 1 62.00 747.69 Tm (-) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 75.00 747.69 Tm (V417: still stabilizing when this document was written; early rank is not a mature result) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 718.59 Tm (What the project now believes) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 703.59 m 541.28 703.59 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 691.59 Tm (1. Large or dedicated farms are usually too expensive for this two-troll opening.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 673.49 Tm (2. A farm can raise our score and still make us less likely to win because the opponent gets time,) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 659.39 Tm (fruit, or uncontested trees.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 641.29 Tm (3. A copied worker or rule from a top bot is not portable without the rest of that bot's strategy.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 623.19 Tm (4. Explicit job priorities are clearer than one mixed number, but they were not the main scaling) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 609.09 Tm (problem in the tested states.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 590.99 Tm (5. Actions that happen only after normal planning, especially replacing a final wait, are the safest) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 576.89 Tm (additions.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 558.79 Tm (6. Concrete replay fixes should be narrow, delayed until the failure is undeniable, and checked) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 544.69 Tm (against independent older games.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 526.59 Tm (7. Local raw score is not enough. Wins, draws, losses, exact live activations, and mature platform) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 512.49 Tm (rank are the real tests.) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 62.00 494.39 Tm (8. Rank stabilization must finish before a candidate is called successful.) Tj ET
+BT /F2 15.00 Tf 0.08 0.31 0.50 rg 1 0 0 1 54.00 465.29 Tm (The open problem) Tj ET
+0.75 0.78 0.82 RG 0.7 w 54.00 450.29 m 541.28 450.29 l S
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 438.29 Tm (The bot can reach score 25, but has not yet matured below rank 10. Its hardest losses still combine) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 424.19 Tm (two facts: the opponent grows to three or four useful trolls, while our two trolls must keep both) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 410.09 Tm (producing and contesting the map. The next successful change probably needs either a genuinely cheap) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 395.99 Tm (way to scale or a stronger complete two-troll plan. It must not pay for that improvement by) Tj ET
+BT /F1 10.35 Tf 0.08 0.10 0.13 rg 1 0 0 1 54.00 381.89 Tm (abandoning normal chores.) Tj ET
+BT /F1 8.2 Tf 0.40 0.45 0.50 rg 1 0 0 1 495.28 25 Tm (Page 9 of 9) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 21 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000176 00000 n 
+0000000273 00000 n 
+0000000375 00000 n 
+0000006190 00000 n 
+0000006332 00000 n 
+0000012245 00000 n 
+0000012387 00000 n 
+0000018600 00000 n 
+0000018743 00000 n 
+0000025137 00000 n 
+0000025281 00000 n 
+0000031914 00000 n 
+0000032058 00000 n 
+0000038156 00000 n 
+0000038300 00000 n 
+0000044956 00000 n 
+0000045100 00000 n 
+0000051307 00000 n 
+0000051451 00000 n 
+0000054952 00000 n 
+trailer
+<< /Size 23 /Root 1 0 R >>
+startxref
+55096
+%%EOF
